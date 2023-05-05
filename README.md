@@ -9,3 +9,12 @@ Proyecto del Curso de Programación Full Stack de Adecco.
   <li>Javascript</li>
   <li>Typescript</li>
 </ul>
+<br>
+<p>Próximamente:</p>
+<ul>
+  <li>Angular</li>
+  <li>Java</li>  
+  <li>Spring</li>  
+  <li>MySQL</li>
+  <li>Hibernate</li>
+</ul>
