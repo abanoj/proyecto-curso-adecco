@@ -13,8 +13,4 @@ Proyecto del Curso de Programación Full Stack de Adecco.
 <p>Próximamente:</p>
 <ul>
   <li>Angular</li>
-  <li>Java</li>  
-  <li>Spring</li>  
-  <li>MySQL</li>
-  <li>Hibernate</li>
 </ul>
